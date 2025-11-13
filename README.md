@@ -1,4 +1,4 @@
-# Spring Boot CRUD Student API
+# Student record manager
 
 This project is a full-stack student management system built with a **Spring Boot** backend, a **MySQL** database, and an optional **frontend**. It supports basic **CRUD** operations: Create, Read, Update, and Delete.
 
